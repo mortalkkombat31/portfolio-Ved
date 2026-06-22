@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="400" height="560">
+  <rect width="400" height="560" fill="#10A37F"/>
+  <circle cx="200" cy="250" r="80" fill="none" stroke="#fff" stroke-width="5"/>
+  <line x1="200" y1="170" x2="200" y2="330" stroke="#fff" stroke-width="5"/>
+  <line x1="120" y1="250" x2="280" y2="250" stroke="#fff" stroke-width="5"/>
+  <text x="200" y="420" font-family="Arial,sans-serif" font-size="28" font-weight="600" fill="#fff" text-anchor="middle" letter-spacing="4">CHATGPT</text>
+</svg>
